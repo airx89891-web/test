@@ -1,0 +1,5 @@
+wafer-die-map-editor/
+├── app.py                # Streamlit 主程式
+├── requirements.txt      # 所需 Python 套件
+├── README.md             # 專案說明文件
+└── sample.xml            # 範例 XML 檔 (可選)
